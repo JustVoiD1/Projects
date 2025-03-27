@@ -1,0 +1,3 @@
+write the name of the filename or extension in gitignore to ignore the files
+
+for folders, use foldername/ to ignore all the files inside the folder
