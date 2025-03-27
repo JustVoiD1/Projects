@@ -1,6 +1,14 @@
 This text is for demo and modified and edited in GitHub
 
-use git diff <filename> to check the changes made locally
-use git diff --staged <filename> to check the changes made in staged file(after git add .)
-use git reset <filename> to unstage
-use git checkout <filename> to reset the file into last commit
+git diff <filename> to check the changes made locally
+
+git diff --staged <filename> to check the changes made in staged file(after git add .)
+
+git reset <filename> to unstage
+
+git checkout <filename> to reset the file into last commit
+
+git add -A to stage all
+git add . to stage new and modified without deleted
+git add -u to stage modified and deleted, without new
+
