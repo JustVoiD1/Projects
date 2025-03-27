@@ -1,1 +1,6 @@
-This text is for demo and modified and edited in github
+This text is for demo and modified and edited in GitHub
+
+use git diff <filename> to check the changes made locally
+use git diff --staged <filename> to check the changes made in staged file(after git add .)
+use git reset <filename> to unstage
+use git checkout <filename> to reset the file into last commit
